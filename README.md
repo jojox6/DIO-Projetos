@@ -1,4 +1,4 @@
 # Esse é um repositório destinado aos Bootcamps da DIO.
 
 ## Primeiro BootCamp 
-[Inter Frontend Developer](https://web.dio.me/track/inter-frontend-developer?tab=path)
+[Eduzz Fullstack Developer #2](https://web.dio.me/track/eduzz-fullstack-developer-2?tab=path)
