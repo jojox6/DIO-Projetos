@@ -1,13 +1,12 @@
 function soma(a){
     return function(b){
-        return a + b;
+        return a * b;
     }
     
 }
 
-const soma2 = soma(3);
+const soma2 = soma(5);
     
-console.log(soma2(2));
-console.log(soma2(3));
-console.log(soma2(4));
-console.log(soma2(5));
+for(i = 1; i <= 10; i++){
+    console.log(soma2(i));
+}
