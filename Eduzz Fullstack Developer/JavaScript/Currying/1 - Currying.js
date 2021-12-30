@@ -5,7 +5,7 @@ function soma(a){
     
 }
 
-const soma2 = soma(2);
+const soma2 = soma(3);
     
 console.log(soma2(2));
 console.log(soma2(3));
